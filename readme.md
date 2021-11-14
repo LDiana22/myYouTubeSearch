@@ -15,3 +15,7 @@
 - https://pypi.org/project/youtube-search-python/
 
 - cod sursa: https://github.com/alexmercerind/youtube-search-python
+
+##### Solving: MacOS - "SSL: CERTIFICATE_VERIFY_FAILED" Error
+
+Daca intampinati erroarea "Could not make request", o puteti rezolva ruland, din terminal, comanda "pip install certifi /Applications/Python\ 3.6/Install\ Certificates.command".
